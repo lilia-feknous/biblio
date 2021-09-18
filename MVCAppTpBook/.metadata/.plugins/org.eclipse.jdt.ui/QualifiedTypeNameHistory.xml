@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="dz.app.dao.BookDao"/>
+    <fullyQualifiedTypeName name="dz.app.beans.Book"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.sql.SQLException"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
+    <fullyQualifiedTypeName name="dz.app.dao.LoginDao"/>
+    <fullyQualifiedTypeName name="dz.app.beans.LoginBean"/>
+    <fullyQualifiedTypeName name="javax.servlet.RequestDispatcher"/>
+    <fullyQualifiedTypeName name="dz.app.dao.RegisterDao"/>
+    <fullyQualifiedTypeName name="dz.app.beans.RegisterBean"/>
+</qualifiedTypeNameHistroy>
